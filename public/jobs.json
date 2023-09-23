@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "logo": "https://th.bing.com/th/id/R.338e4330c1d4a44c0f780b21f62b1dc8?rik=fD23mr4B6VcP8w&pid=ImgRaw&r=0",
+    "job_title": "Software Engineer",
+    "company_name": "Google",
+    "remote_or_onsite": "Onsite",
+    "location": "Mountain View, CA",
+    "job_type": "Full Time",
+    "salary": "40000k",
+    "job_description": "Develop, test, and maintain web applications.",
+    "job_responsibility": "Collaborate with team to design and implement new features.",
+    "educational_requirement": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "2+ years of experience in software development.",
+    "contact_info": {
+      "Phone": "(123) 456-7890",
+      "email": "recruiter@google.com",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://th.bing.com/th/id/OIP.zaiIl16zqTKDuhYIxeop0wHaHa?pid=ImgDet&rs=1",
+    "job_title": "Data Scientist",
+    "company_name": "Facebook",
+    "remote_or_onsite": "Remote",
+    "location": "Worldwide",
+    "job_type": "Full Time",
+    "salary": "1000k",
+    "job_description": "Collect, analyze, and interpret data to solve business problems.",
+    "job_responsibility": "Build and maintain machine learning models.",
+    "educational_requirement": "Master's degree in Statistics, Computer Science, or related field.",
+    "experiences": "2+ years of experience in data science.",
+    "contact_info": {
+      "Phone": "(456) 789-0123",
+      "email": "recruiter@facebook.com",
+      "address": "1 Hacker Way, Menlo Park, CA"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://prod-cdn-thekrazycouponlady.imgix.net/assets/images/logos/amazon-icon-logo_367x395.png?auto=compress,format&fit=max",
+    "job_title": "Product Manager",
+    "company_name": "Amazon",
+    "remote_or_onsite": "Hybrid",
+    "location": "Seattle, WA",
+    "salary": "3000k",
+    "job_type": "Full Time",
+    "job_description": "Gather and analyze user feedback to define and prioritize product requirements.",
+    "job_responsibility": "Work with engineers and designers to develop and launch new products.",
+    "educational_requirement": "Bachelor's degree in Business Administration, Computer Science, or related field.",
+    "experiences": "2+ years of experience in product management.",
+    "contact_info": {
+      "Phone": "(567) 890-1234",
+      "email": "recruiter@amazon.com",
+      "address": "410 Terry Ave N, Seattle, WA"
+    }
+  },
+
+  {
+    "id": 4,
+    "logo": "https://th.bing.com/th/id/OIP.ZgSsS3QoXbmVWQE4CjbsnQAAAA?pid=ImgDet&w=200&h=200&rs=1",
+    "job_title": "UX Designer",
+    "company_name": "Microsoft",
+    "remote_or_onsite": "Onsite",
+    "location": "Redmond, WA",
+    "job_type": "Full Time",
+    "job_description": "Design and develop user interfaces for web and mobile applications.",
+    "job_responsibility": "Conduct user research to understand user needs and pain points.",
+    "educational_requirement": "Bachelor's degree in Design, Computer Science, or related field.",
+    "experiences": "2+ years of experience in UX design.",
+    "contact_info": {
+      "Phone": "(678) 901-2345",
+      "email": "recruiter@microsoft.com",
+      "address": "One Microsoft Way, Redmond, WA"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://th.bing.com/th/id/OIP.xbl5Q9A03db7zcxaI1dBWgHaJl?pid=ImgDet&rs=1",
+    "job_title": "Sales Engineer",
+    "company_name": "Apple",
+    "remote_or_onsite": "Hybrid",
+    "location": "Cupertino, CA",
+    "job_type": "Full Time",
+    "salary": "4000k",
+    "job_description": "Demonstrate and sell Apple products and services to enterprise customers.",
+    "job_responsibility": "Work with customers to understand their needs and **recommend solutions that meet their business objectives.**",
+    "educational_requirement": "Bachelor's degree in Engineering, Business Administration, or related field.",
+    "experiences": "2+ years of experience in sales engineering or a related field.",
+    "contact_info": {
+      "Phone": "(123) 456-7890",
+      "email": "recruiter@apple.com",
+      "address": "One Infinite Loop, Cupertino, CA"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://logos-world.net/wp-content/uploads/2020/10/Tesla-Emblem.png",
+    "job_title": "Technical Writer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Remote",
+    "salary": "800k",
+    "location": "Worldwide",
+    "job_type": "Full Time",
+    "job_description": "Write and maintain technical documentation, such as user guides, API documentation, and release notes.",
+    "job_responsibility": "Collaborate with engineers and other stakeholders to gather and organize information.",
+    "educational_requirement": "Bachelor's degree in English, Technical Writing, or related field.",
+    "experiences": "2+ years of experience in technical writing.",
+    "contact_info": {
+      "Phone": "(789) 012-3456",
+      "email": "recruiter@tesla.com",
+      "address": "3500 Deer Creek Rd, Palo Alto, CA"
+    }
+  }
+]
